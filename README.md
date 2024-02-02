@@ -5,4 +5,6 @@ Mock repo for testing branching and merging
 
 ## Production
 
-https://gamenight.org/Schedule
+https://gamenight.org:8080/Schedule
+
+(Note: Port added for correct access)
